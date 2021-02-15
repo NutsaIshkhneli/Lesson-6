@@ -183,3 +183,18 @@ li {
 	height: 266px;
 	background-color: black;
 }
+
+/*footer*/
+
+.footer-h {
+
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	margin-top: 20px;
+
+}
+
+.footer-company {
+	float: left;
+}

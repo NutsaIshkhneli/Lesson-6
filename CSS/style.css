@@ -233,3 +233,11 @@ body {
 	float: left;
 	margin-left: 150px;
 }
+
+.Copyright {
+	float: right;
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	color: #A4A4A4;
+	margin-right: 665px;
+}

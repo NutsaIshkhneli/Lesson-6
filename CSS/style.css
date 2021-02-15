@@ -216,3 +216,8 @@ body {
 .li-img {
 	display: inline-block;
 }
+
+.footer-ul {
+	content: ' ';
+	clear: both;
+}

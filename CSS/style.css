@@ -1,0 +1,49 @@
+.nav-a {
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	color: #181C28;
+	margin-top: 50px;
+}
+
+.header-title {
+	color: black;
+}
+
+
+.header-SHOP {
+	font-weight: bold;
+	color: black;
+}
+
+
+.logo {
+	float: left;
+	margin-left: 160px;
+	margin-right: 125px;
+}
+
+.clear {
+	clear: both;
+}
+
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%
+}
+
+body {
+	height: 2000px;
+}
+
+li {
+	float: left;
+	margin-right: 45px;
+}
+
+.ul {
+	content: ' ';
+	clear: both;
+}
+

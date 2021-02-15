@@ -221,3 +221,15 @@ body {
 	content: ' ';
 	clear: both;
 }
+
+.footer-orders {
+
+	float: left;
+	margin-left: 150px;
+}
+
+.footer-payment {
+
+	float: left;
+	margin-left: 150px;
+}
